@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lesson3</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+</resources>
